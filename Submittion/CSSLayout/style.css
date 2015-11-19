@@ -1,18 +1,35 @@
 @CHARSET "UTF-8";
 table{
     width:960px;
-    background-color:blue；	
+}
+.center{
+    margin:0 auto;
+}
+
+.navigator{
+	
+	
+	
+	
+}
+.footer{
+
+
+}
+
+
+//the class is to align top, left, right
+//this will be replace by the content type they contain
+.top{
+	
+	
+	
 }
 .left{
 	width:20%;
 	background-color:pink;
-	
-	
 }
 .right{
 	width:80%;
-	background-color:gray;
-	
-	
-	
+	background-color:gray;	
 }

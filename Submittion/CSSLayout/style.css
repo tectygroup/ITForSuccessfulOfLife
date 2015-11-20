@@ -1,35 +1,36 @@
 @CHARSET "UTF-8";
-table{
-    width:960px;
+body{
+	background-color:#f9f9f9;	
 }
-.center{
-    margin:0 auto;
+.DrawPapper{
+	background-color:#fff;
+	max-width:960px;
+    margin: 0 auto;
+    padding:10%;
 }
-
-.navigator{
-	
-	
-	
-	
+.header{
+	font-family:Arial,Verdana,Sans-serif;
+	text-align:left;
+	color:white;
+	background-color:#BEBEBE;
+	padding-top:20px;
+    font-weight:900;
+    font-size:60px;
+    line-height:93%;
+}
+a{
+	text-decoration:none;	
 }
 .footer{
 
-
+    background-color:#b6b6b6;
 }
 
-
-//the class is to align top, left, right
-//this will be replace by the content type they contain
-.top{
-	
-	
-	
-}
-.left{
+.Charpter{
 	width:20%;
-	background-color:pink;
+	background-color:#efefef;
 }
-.right{
+.Content{
 	width:80%;
-	background-color:gray;	
+	background-color:white;	
 }

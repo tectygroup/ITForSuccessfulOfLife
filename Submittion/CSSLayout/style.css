@@ -1,14 +1,15 @@
 @CHARSET "UTF-8";
 body{
+	margin:0px;
 	background-color:#f9f9f9;	
 }
-.DrawPapper{
+.DrawPpaper{
 	background-color:#fff;
 	max-width:960px;
     margin: 0 auto;
-    padding:10%;
+    padding:5 15px;
 }
-.header{
+.Header{
 	font-family:Arial,Verdana,Sans-serif;
 	text-align:left;
 	color:white;
@@ -18,7 +19,8 @@ body{
     font-size:60px;
     line-height:93%;
 }
-a{
+.Navigator a{
+	color:#777;
 	text-decoration:none;	
 }
 .footer{
